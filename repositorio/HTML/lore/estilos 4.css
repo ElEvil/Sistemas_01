@@ -1,0 +1,28 @@
+h1{
+    border: 1px solid rgb(17, 194, 218);
+    padding-left: 35%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(233, 6, 82);
+    color: white;
+}
+
+p{
+    border: 10px solid rgb(51, 48, 221);
+    margin-left: 2.5%;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height:  150px;
+    width:  95%;
+    background-color: rgb(255, 255, 255);
+    }
+    img{
+        margin-left: 20%;
+        height: 80%;
+        width: 50%;
+
+    }
+    body{
+        background-color: brown;
+    }

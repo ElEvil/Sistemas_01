@@ -1,0 +1,28 @@
+h1{
+    border: 1px solid rgb(17, 194, 218);
+    padding-left: 35%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(246,92,91,255);
+    color: white;
+}
+
+p{
+    border: 10px solid rgba(52,30,28,255);
+    margin-left: 2.5%;
+    margin-top: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height:  150px;
+    width:  95%;
+    background-color: rgba(222,94,165,255);
+    }
+    img{
+        margin-left: 20%;
+        height: 20%;
+        width: 10%;
+
+    }
+    body{
+        background-color: rgba(55,72,140,255);
+    }
